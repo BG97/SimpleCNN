@@ -1,1 +1,3 @@
 # SimpleCNN
+
+Hard cooding CNN
